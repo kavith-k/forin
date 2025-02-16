@@ -21,10 +21,7 @@ I’m more concerned about the latter, especially since there’s no easy way to
 
 - **Investment Tracking**: Log investment amounts in two user-defined currencies.
 - **Foreign Exchange Rate Analysis**: See how bank charges and fund fees affect your investments.
-- **Performance Monitoring**:
-  - Displays current investment value in both currencies.
-  - Calculates nominal and percentage gains/ losses in both currencies.
-  - Predicts current effective FX rates based on historical differences.
+- **Performance Monitoring**: See nominal & percentage gain/ losses in both currencies based on current effective FX rate predictions.
 
 ## How to Use
 
