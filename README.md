@@ -4,6 +4,8 @@
 
 This Apple Numbers spreadsheet helps track investments in foreign currency by calculating investment performance, FX rate differences, and nominal/percentage gains or losses.
 
+![Screenshot of the spreadsheet](./screenshot.png)
+
 ## Why forin?
 
 Why the name? **forin** is to **Foreign Investments** as **forex** is to **Foreign Exchange**!
