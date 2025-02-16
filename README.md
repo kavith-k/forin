@@ -47,7 +47,7 @@ I’m more concerned about the latter, especially since there’s no easy way to
 
 - `Predicted Current Effective FX Rate = (Current Actual FX Rate) - (Average FX Rate Difference)`
 
-- `Current Foreign Currency Value = (Investment Currency Value) / (Predicted Current Effective FX Rate)`
+- `Current Portfolio Value in Currency 1 = (Currency 2 Value) / (Predicted Current Effective FX Rate)`
 
 - **FX Rate Differences [LIMITATION]**:
 
